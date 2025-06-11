@@ -14,6 +14,6 @@ export class FormularioComponent {
 
   enviar(){
     console.log(this.nombre, this.poder);
-    //prueba2
+    //prueba22
   }
 }

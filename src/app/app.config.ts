@@ -6,4 +6,4 @@ import { routes } from './app.routes';
 export const appConfig: ApplicationConfig = {
   providers: [provideZoneChangeDetection({ eventCoalescing: true }), provideRouter(routes)]
 };
-//prueba 3
+//prueba 3asd
